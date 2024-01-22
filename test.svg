@@ -1,15 +1,16 @@
 <?xml version="1.0" standalone="no"?>
-<svg width="600" height="1000" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+
 
     <!-- square -->
-  <rect x="10" y="210" width="150" height="150" stroke="black" fill="black" stroke-width="2"/>
+  <!-- <rect x="25" y="10" width="250" height="200" fill="green" /> -->
 
     <!-- circle -->
-  <circle cx="25" cy="75" r="20" stroke="red" fill="transparent" stroke-width="2"/>
+  <!-- <circle cx="150" cy="100" r="98"  fill="green" /> -->
 
     <!-- triangle -->
-  <polygon points="150, 18 244, 182 56, 182" fill="blue" stroke-width="5"/>
+  <!-- <polygon points="150,5 244,182 56,182" fill="green" /> -->
 
     <!-- text -->
-  <text x="150" y="125" font-size="60" text-anchor="middle" fill="white">bttt</text>
+  <!-- <text x="150" y="100" font-size="100" text-anchor="middle" fill="black" dominant-baseline="middle">TST</text> -->
 </svg>
